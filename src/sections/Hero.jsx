@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { useState } from "react";
 
 import { shoes, statistics } from "../constants";
@@ -70,7 +70,7 @@ const Hero = () => {
   );
 };
 
-=======
+
 import { useState } from "react";
 
 import { shoes, statistics } from "../constants";
@@ -78,7 +78,7 @@ import { Button, ShoeCard } from "../components";
 import { bigShoe1 } from "../assets/images";
 import { arrowRight } from "../assets/icons";
 
-const Hero = () => {
+
   const [bigShoeImg, setBigShoeImg] = useState(bigShoe1);
 
   return (
@@ -140,7 +140,7 @@ const Hero = () => {
       </div>
     </section>
   );
-};
 
->>>>>>> 04702e53327d6ab8defae7933c741e171cd00034
+
+
 export default Hero;
