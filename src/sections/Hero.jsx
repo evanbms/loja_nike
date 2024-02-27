@@ -1,4 +1,4 @@
-simport { useState } from "react";
+import { useState } from "react";
 
 import { shoes, statistics } from "../constants";
 import { Button, ShoeCard } from "../components";
@@ -23,7 +23,7 @@ const Hero = () => {
             Novos Modelos
           </span>
           <br />
-          <span className='text-coral-red inline-block mt-3'>Nike</span>Shoes
+          <span className='text-coral-red inline-block mt-3'>Nike</span> Shoes
         </h1>
         <p className='font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>
           Descubra os novos lançamentos da Nike, qualidade, conforto e inovação para sua vida ativa.
