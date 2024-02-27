@@ -73,14 +73,14 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Marcos Andrade',
+        customerName: 'Evandro Moura',
         rating: 4.5,
         feedback: "A atenção aos detalhes e a qualidade do produto exederam minhas expectativas. Altamente recomendável!"
         
     },
     {
         imgURL: customer2,
-        customerName: 'Fernanda Martins',
+        customerName: 'Mariana Peixoto',
         rating: 4.5,
         feedback: "O produto não somente casou, mas excedeu minhas expectativas. Eu definitivamente serei uma cliente!"
         
